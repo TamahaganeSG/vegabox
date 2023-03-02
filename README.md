@@ -2,9 +2,9 @@
 
 ## Spletna storitev VegaBox
 
-Na [GitHub](https://github.com) je na voljo javni repozitorij [https://github.com/lovre/fribox](https://github.com/lovre/fribox), ki vsebuje nedelujočo spletno storitev FriBox. FriBox predstavlja napredno storitev za oblačno shranjevanje in deljenje datotek. Kot izvrstna spletna aplikacija posega na izjemno konkurenčno področje obstoječih tovrstnih rešitev. V okviru vaj ustvarite kopijo repozitorija ter popravite in dopolnite obstoječo implementacijo tako, da bo končna aplikacija z vsemi delujočimi funkcionalnostimi izgledala kot na sliki spodaj. Med delom smiselno uveljavljajte spremembe v lokalnem in oddaljenem repozitoriju!
+Na [GitHub](https://github.com) je na voljo javni repozitorij [https://github.com/Alek6/vegabox](https://github.com/Alek6/vegabox), ki vsebuje nedelujočo spletno storitev FriBox. FriBox predstavlja napredno storitev za oblačno shranjevanje in deljenje datotek. Kot izvrstna spletna aplikacija posega na izjemno konkurenčno področje obstoječih tovrstnih rešitev. V okviru vaj ustvarite kopijo repozitorija ter popravite in dopolnite obstoječo implementacijo tako, da bo končna aplikacija z vsemi delujočimi funkcionalnostimi izgledala kot na sliki spodaj. Med delom smiselno uveljavljajte spremembe v lokalnem in oddaljenem repozitoriju!
 
-![FriBox](fribox.gif)
+![VegaBox](fribox.gif)
 
 ## Navodila za vaje
 
